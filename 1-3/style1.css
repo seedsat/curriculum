@@ -1,0 +1,35 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+#wrapper {
+  width: 400px;
+  height: 450px;
+  margin: 0 auto;
+}
+
+#header {
+  height: 100px;
+  background: #141f40;
+}
+
+.left {
+  width: 150px;
+  height: 250px;
+  float: left;
+  background: #80dfa8;
+}
+
+.right {
+  width: 250px;
+  height: 250px;
+  float: left;
+  background: #8c2727;
+}
+
+#footer {
+  height: 100px;
+  clear: both;
+  background-color: #d98d30;
+}
